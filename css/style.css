@@ -3,7 +3,7 @@
 /* global css */
 :root
 {
-    --main-color:#b9c5b2;
+    --main-color:#aebda5;
     --shadow-black-100:0 5px 15px rgba(0,0,0,0.1);
     --shadow-black-300:0 5px 15px rgba(0,0,0,0.3);
     --black-900:#000;
@@ -19,7 +19,7 @@ body
     font-size: 16px;
     font-weight: normal;
     overflow-x: hidden;
-    background-color: #f8faf7;
+    background-color: #ffffee;
 }
 *
 {
@@ -424,7 +424,7 @@ a,a:hover
 }
 .service-item:hover h3
 {
-    color: #66d840
+    color: #f9fff7
 }
 .service-item p
 {
@@ -571,7 +571,7 @@ a,a:hover
 
 /*Events*/
 #event{
-    background-color: #f7f7ec;
+    background-color: #ffffee;
 }
 .event-content .event-title
 {
@@ -603,7 +603,7 @@ a,a:hover
     margin: 0px;
 }
 #event h2 span{
-    color: rgb(90, 82, 61);
+    color: rgb(0, 0, 0);
 }
 .event-content ul
 {
@@ -679,7 +679,7 @@ a,a:hover
 /* contact us */
 .contact 
 {
-    background-color: var(--shadow-black-100);
+    background-color: rgb(255, 255, 255);
 }
 .contact-info h3
 {
