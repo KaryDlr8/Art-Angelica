@@ -19,7 +19,7 @@ body
     font-size: 16px;
     font-weight: normal;
     overflow-x: hidden;
-    background-color: #fffff2;
+    background-color: #ffffee;
 }
 *
 {
@@ -571,7 +571,7 @@ a,a:hover
 
 /*Events*/
 #event{
-    background-color: #ffffea;
+    background-color: #ffffee;
 }
 .event-content .event-title
 {
