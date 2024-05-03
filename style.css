@@ -19,7 +19,7 @@ body
     font-size: 16px;
     font-weight: normal;
     overflow-x: hidden;
-    background-color: #ffffee;
+    background-color: #fffbf2;
 }
 *
 {
@@ -190,7 +190,7 @@ a,a:hover
 /*------ home section -------*/
 .header-content
 {
-    background-color: #ffffff;
+    background-color: #fffff8;
     height: 800px;
     padding-top: 110px;
     position: relative;
@@ -357,7 +357,7 @@ a,a:hover
 /* services */
 .services
 {
-    background-color: var(--black-100);
+    background-color: #fffff8;
 }
 .service-item
 {
@@ -679,7 +679,7 @@ a,a:hover
 /* contact us */
 .contact 
 {
-    background-color: rgb(255, 255, 255);
+    background-color: #fffff8;
 }
 .contact-info h3
 {
